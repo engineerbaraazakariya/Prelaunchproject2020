@@ -1,0 +1,13 @@
+body {
+  font-family: "Arial Narrow", sans-serif !important;
+}
+
+@import "./settings/settings";
+@import "./components/container";
+//@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
+//@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap");
+//@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+//@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+.embedFormContainer .poweredby{
+  display: none !important;
+}
