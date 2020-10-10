@@ -27,7 +27,7 @@ export default function Home() {
                       <EmailInput />
                     </div>
                     <a href="#" className="already-text">
-                      Already subscribed? ** Sign in, invite friends & win $$ here **
+                      Already subscribed? **Sign in, invite friends & win $$ here**
                     </a>
                   </div>
                 </div>
