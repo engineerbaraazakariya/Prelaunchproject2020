@@ -27,7 +27,7 @@ export default function Home() {
                       <EmailInput />
                     </div>
                     <a href="#" className="already-text">
-                      Already subscribed? Sign-in, refer friends & win up to $35 off +freebies
+                      Already subscribed? Sign-in, refer friends & win up to $35 off
                     </a>
                   </div>
                 </div>
