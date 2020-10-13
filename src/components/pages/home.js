@@ -20,14 +20,14 @@ export default function Home() {
                       Easy access to global style & culture
                     </h2>
                     <h3 className="subHeader">
-                      Enter your email and get 20% off on lifestyle items, when
+                      Enter your email and get $8 joining off on many lifestyle items, when
                       TheBomway launches, from SMBs of countries.
                     </h3>
                     <div>
                       <EmailInput />
                     </div>
                     <a href="#" className="already-text">
-                      Already subscribed? **Sign in, invite friends & win $$ here**
+                      Already subscribed? Sign in here, invite friends & win upto $35 referral credit + goodies
                     </a>
                   </div>
                 </div>
